@@ -7,4 +7,4 @@ assignees: teroauralinna
 
 ---
 
-Comments for the blog post: [POST-NAME](https://auralinna.blog)
+Comments for the blog post: [Blog post title](https://auralinna.blog)
